@@ -1,0 +1,8 @@
+.git
+.gitignore
+.yarn
+**/node_modules
+**/dist
+server/data
+coverage
+*.log
